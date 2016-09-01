@@ -21,7 +21,7 @@
                 <asp:Image runat="server" ID="logo" ImageUrl="./IMAGES/logo-with-tag.png" Height="100px" Width="240px" />
             </div>
             <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 text-center">
-                <h2 style="color: black"><b>ASSEMBLY SHOP FLOOR INFORMATION SYSTEM</b></h2>
+                <h2 style="color: black"><b>ASSEMBLY SHOP FLOOR INFORMATION SYSTEM PROJECT</b></h2>
                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
                     <asp:LinkButton ID="Home" runat="server" PostBackUrl="~/Default.aspx" CausesValidation="false" CssClass="btn btn-default btn-block  " Text="HOME"></asp:LinkButton>
                 </div>
